@@ -3,7 +3,7 @@
     border: none;
     font: inherit;
     color: inherit;
-    background-image: url(/images/like-button.svg);
+    background-image: url(../../../images/like-button.svg);
     background-repeat: no-repeat;
     background-color: transparent;
     width: 22px;
@@ -16,5 +16,5 @@
   }
   
   .card__like-button_active {
-    background-image: url(./images/сard__like-button-active.svg);
+    background-image: url(../../../images/сard__like-button-active.svg);
   }
