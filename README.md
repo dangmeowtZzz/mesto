@@ -13,3 +13,6 @@
 ### Фукционал:
 * редактирование профиля;
 * валидация форм.
+
+### Github Pages:
+* https://dangmeowtzzz.github.io/mesto/
