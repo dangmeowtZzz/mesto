@@ -1,5 +1,5 @@
 .popup__container {
-  position: absolute;
+  position: inherit;
   top: calc(50% - 166px);
   left: calc(50% - 141px);
   z-index: 1;
