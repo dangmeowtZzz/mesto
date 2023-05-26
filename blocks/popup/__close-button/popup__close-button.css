@@ -5,11 +5,11 @@
     width: 20px;
     height: 20px;
     top: -36px;
-    right: 8px;
+    right: 0;
     border: none;
     font: inherit;
     color: inherit;
-    position: inherit;
+    position: absolute;
     background-repeat: no-repeat;
     background-color: transparent;
     background-position: center;
